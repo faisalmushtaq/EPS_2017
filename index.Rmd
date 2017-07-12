@@ -358,16 +358,6 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 --- .class ##id 
 
-## More on open science
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sZIxzTsvWhw" frameborder="0" allowfullscreen></iframe>
-
-- https://www.youtube.com/watch?v=sZIxzTsvWhw
-
-* From Lorne Campbell, OSF Slides
-
---- .class ##id  
-
 ## Bibliography
 
 * Begley, C. G., & Ellis, L. M. (2012). Drug development: Raise standards for preclinical cancer research. Nature, 483, 531–533.

@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 * Where social priming research was still a thing
 
 >- <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/penface.jpg' height="250px" width="300px">
+<img src='assets/img/bargh.png' height="200px" width="200px">
 </div>
 
 >- And ego-depletion could explain why you might not pay attention to what im saying

@@ -11,13 +11,18 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## The very recent past
+## Psychology
 
 >- Fantastic talks today showcasing the highest quality psychological research
 * But it wasn’t always this way...
 * The heady of days of the early noughties
 * Where social priming research was still a thing
-* And ego-depletion could explain why you might not pay attention to what im saying
+
+>- <div style="position: relative; left: 16700; top: 0px; z-index:200">
+<img src='assets/img/penface.jpg' height="250px" width="300px">
+</div>
+
+>- And ego-depletion could explain why you might not pay attention to what im saying
 >- If only life was still so simple and easy...
 
 --- .class ##id  
@@ -51,6 +56,17 @@ knit        : slidify::knit2slides
 --- .class ##id  
 
 
+## Same data, different results
+
+<div style="position: relative; left: 16700; top: 0px; z-index:200">
+<img src='assets/img/same_data.png' height="800px" width="800px">
+</div>
+
+* fivethirtyeight.com, Nosek et al., 2015
+
+--- .class ##id  
+
+
 ## The replication crisis 
 
 >- Things caught up with psychology and revealed some ugly truths
@@ -69,7 +85,6 @@ knit        : slidify::knit2slides
 
 *Nosek, 2015 Open Science Centre Slides
 
-
 --- .class ##id  
 
 ## Results
@@ -86,13 +101,13 @@ knit        : slidify::knit2slides
 ## Was this really a surprise? 
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/feynman.png' height="560px" width="560px">
+<img src='assets/img/feynman.png' height="550px" width="550px">
 </div>
 
 --- .class ##id  
 
 
-## Prediction markets get closer to the truth
+## Prediction markets
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
 <img src='assets/img/markets.jpg' height="430px" width="430px">
@@ -103,12 +118,12 @@ Deber et al 2015, __PNAS__: Final market prices and survey predictions are shown
 --- .class ##id  
 
 
-## Not just psychology
+## Not just psychology!...
 
 * But pervasive across academia
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/biology.png' height="700px" width="700px">
+<img src='assets/img/biology.png' height="450px" width="450px">
 </div>
 
 * Exciting results often trumps honest science 
@@ -146,7 +161,7 @@ The obvious ones:
 
 The slightly less obvious ones:
 >- To increase the efficiency of research
-* Fulfill ethical obligations to participants
+* Fulfill ethical obligations to participants and the public
 * Provide information to potential participants
 and the research community
 * Facilitate systematic reviews and meta analyses
@@ -160,7 +175,7 @@ and the research community
 >- Reporting guidelines- http://www.equator-network.org/reporting-guidelines/
 * Funder/government mandates -  http://datasharing.sparcopen.org
 * Journal polices -  https://cos.io/top/
-* Rewards for open practices
+* Rewards for open practices - more later
 
 --- .class ##id  
 
@@ -174,7 +189,7 @@ and the research community
 </div>
 * Lyon, 2009 
 
-* PAC Lab not yet fully open...
+* PAC Lab not yet "fully open"...
 
 * Preprint, registered report, github code available in the last 12 months
 
@@ -202,12 +217,12 @@ Transparency and Openness Promotion (TOP) Guidelines
 * h/p://osf.io/9f6gx
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/top_journals.png' height="900px" width="900px">
+<img src='assets/img/top_journals.png' height="950px" width="950px">
 </div>
 
 --- .class ##id  
 
-## Registered Reports
+## Registered Reports?
 
 >- Publish your introduction and methods BEFORE running your study
 * The file drawer effect
@@ -221,7 +236,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 ## Registered Reports
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/reg_reports_journals.png' height="900px" width="1000px">
+<img src='assets/img/reg_reports_journals.png' height="1000px" width="1000px">
 </div>
  
 - See the full list of journals: osf.io/8mpji
@@ -230,9 +245,18 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 ##  Rewards and decision-making
 
->- Motivate participants through payments or "credits"
->- But pychologists come much cheaper than that...
+>- Motivate participants through payments or "credits"?
+>- Pychologists come even cheaper than that...
 >- It seems researchers __REALLY__ like badges
+
+--- .class ##id  
+
+
+##  Promoting Open Science through badges
+
+>- Badges to acknowledge open practices
+>- Making behaviours visible promotes adoption
+>- **How do I get my hands on some badges?**
 
 --- .class ##id  
 
@@ -244,7 +268,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 --- .class ##id 
 
-##  Promoting Open Science through badges
+##  Open science & badges
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
 <img src='assets/img/badges.png' height="800px" width="1000px">
@@ -252,7 +276,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 --- .class ##id  
  
-##  Promoting Open Science through badges
+##  Open science & badges
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
 <img src='assets/img/badge_behaviours.png' height="700px" width="800px">
@@ -260,13 +284,6 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 --- .class ##id  
 
-##  Promoting Open Science through badges
-
->- Badges to Acknowledge Open Practices
->- Making behaviours visible promotes adoption
->- **How do I get my hands on some badges?**
-
---- .class ##id  
 
 ## Badge 1: Open Data
 
@@ -282,13 +299,13 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 ## Standardised formats
 
-* Proprietary formats are the devil's work
+* Proprietary formats are the __devil's work__
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
 <img src='assets/img/propreitary.png' height="600px" width="600px">
 </div>
 
-* Avoid wherever possible
+* Use open and/or widely adopted software wherever possible
 * Initiatives in neuroscience to standardise formats: BIDS format for fMRI & ongoing discussions about EEG
 
 --- .class ##id  
@@ -314,7 +331,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 </div>
 
 * A public date-time stamped registration is in an institutional registration system (e.g., ClinicalTrials.gov, Open Science Framework)
-* Registration pre-dates realization of the outcomes
+* Registration __pre-dates__ realisation of the outcomes
 * Registered design and analysis plan corresponds directly to reported design and analysis
 * Full disclosure of results following the registered plan
 
@@ -326,13 +343,21 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 > Misson- Improve openness, integrity, and reproducibility of scientific research
 
-* Online Resource for Collaboration, Documentation and Archiving
+<div style="position: relative; left: 16700; top: 0px; z-index:200">
+<img src='assets/img/osf.png' height="800px" width="900px">
+</div>
+
+--- .class ##id  
+
+## Open Science Framework 
+
+* Online resource for collaboration, documentation and archiving
 * Includes version control
 * Persistent Citable Identifiers
 * Pre-registration of ideas to prevent HARKING (more next)
 * Connects the software and services you are already using
 
---- .class ##id  
+--- .class ##id
 
 ## Open Science Framework
 
@@ -350,23 +375,13 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 --- .class ##id 
 
-## Resources to help you get started
+## Resources to get started
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
 <img src='assets/img/improving_resources.png' height="1000px" width="1000px">
 </div>
 
 --- .class ##id 
-
-## More on open science
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sZIxzTsvWhw" frameborder="0" allowfullscreen></iframe>
-
-- https://www.youtube.com/watch?v=sZIxzTsvWhw
-
-* From Lorne Campbell, OSF Slides
-
---- .class ##id  
 
 ## Bibliography
 

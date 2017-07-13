@@ -229,7 +229,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 * P-Hacking: Unreported flexibility in data analysis
 * HARKing: Hypothesizing After Results are Known
 * Growing number of journals accepting registered reports that guarantee publication if accepted (provided you do what you said you would!)
-* eLife, Attention, Perception and Psychophysics, Cerebral Cortex, Experimental Psychology
+* eLife, Attention, Perception and Psychophysics, Cortex, Experimental Psychology
 
 --- .class ##id  
 
@@ -252,7 +252,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 --- .class ##id  
 
 
-##  Promoting Open Science through badges
+##  Promoting Open Science
 
 >- Badges to acknowledge open practices
 >- Making behaviours visible promotes adoption
@@ -260,7 +260,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 --- .class ##id  
 
-##  Promoting Open Science through badges
+##  Promoting Open Science
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
 <img src='assets/img/psychscience_cover.png' height="700px" width="700px">

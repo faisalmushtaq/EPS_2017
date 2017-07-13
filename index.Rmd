@@ -143,7 +143,7 @@ Deber et al 2015, __PNAS__: Final market prices and survey predictions are shown
 ## What is open science? 
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/openness.png' height="900px" width="900px">
+<img src='assets/img/openness.png' height="800px" width="800px">
 </div>
 
 --- .class ##id  

@@ -19,7 +19,7 @@ knit        : slidify::knit2slides
 * Where social priming research was still a thing
 
 >- <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/bargh.png' height="200px" width="200px">
+<img src='assets/img/bargh.png' height="160px" width="160px">
 </div>
 
 >- And ego-depletion could explain why you might not pay attention to what im saying
@@ -143,7 +143,7 @@ Deber et al 2015, __PNAS__: Final market prices and survey predictions are shown
 ## What is open science? 
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
-<img src='assets/img/openness.png' height="900px" width="900px">
+<img src='assets/img/openness.png' height="800px" width="800px">
 </div>
 
 --- .class ##id  
@@ -229,7 +229,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 * P-Hacking: Unreported flexibility in data analysis
 * HARKing: Hypothesizing After Results are Known
 * Growing number of journals accepting registered reports that guarantee publication if accepted (provided you do what you said you would!)
-* eLife, Attention, Perception and Psychophysics, Cerebral Cortex, Experimental Psychology
+* eLife, Attention, Perception and Psychophysics, Cortex, Experimental Psychology
 
 --- .class ##id  
 
@@ -252,7 +252,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 --- .class ##id  
 
 
-##  Promoting Open Science through badges
+##  Promoting Open Science
 
 >- Badges to acknowledge open practices
 >- Making behaviours visible promotes adoption
@@ -260,7 +260,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 --- .class ##id  
 
-##  Promoting Open Science through badges
+##  Promoting Open Science
 
 <div style="position: relative; left: 16700; top: 0px; z-index:200">
 <img src='assets/img/psychscience_cover.png' height="700px" width="700px">

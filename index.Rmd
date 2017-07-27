@@ -383,7 +383,7 @@ Transparency and Openness Promotion (TOP) Guidelines
 
 --- .class ##id 
 
-## Bibliography
+## Bibliography 
 
 * Begley, C. G., & Ellis, L. M. (2012). Drug development: Raise standards for preclinical cancer research. Nature, 483, 531–533.
 * Freedman LP, Cockburn IM, Simcoe TS. The economics of reproducibility in preclinical research. PLoS Biol 2015; 13: e1002165.
